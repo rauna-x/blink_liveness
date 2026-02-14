@@ -29,7 +29,7 @@ SafePilot aims to provide a low-cost AI-based fatigue detection solution using s
 
 ## ⚙️ Tech Stack
 
-- Python
+- Python== 3.10.11
 - OpenCV
 - MediaPipe Face Mesh
 - NumPy
